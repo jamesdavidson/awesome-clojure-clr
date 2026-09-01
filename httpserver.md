@@ -10,7 +10,7 @@ deps: `io.github.anderseknert/ring-clr {:git/sha "656d74a4d7db6ebb531e7c81e4a2a9
 
 ## Example
 
-``clj
+```clj
 (ns com.example.webserver
    (:require [ring-clr.adapter.httplistener :as httplistener])
    (:require [clojure.clr.io :as io]
