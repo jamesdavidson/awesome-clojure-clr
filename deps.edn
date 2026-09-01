@@ -1,0 +1,12 @@
+{:paths ["src" "resources"]
+ :deps {org.clojure/clojure {:mvn/version "1.12.4"}
+        io.github.jamesdavidson/clerk {:git/sha "646b0ce9600c837f8a8778356da948d555b90995"}}
+
+ :aliases {:nextjournal/clerk {:exec-fn nextjournal.clerk/build!
+                               :exec-args {:git/url "https://github.com/jamesdavidson/awesome-clojure-clr"
+                                           :ssr true
+                                           :compile-css false
+                                           :paths ["index.clj"
+                                                   "*.md"]
+                                           :out-path "html"}
+                               :main-opts ["-m" "babashka.cli.exec"]}}}
