@@ -2,34 +2,34 @@
 
 ## Data formats
 
-[data.csv](csv.md)
-[fressian](fressian.md)
-[JSON](json.md)
+ - [data.csv](csv.md)
+ - [fressian](fressian.md)
+ - [JSON](json.md)
 
 ## HTTP
 
-[HTTP client](httpclient.md)
-[HTTP server](httpserver.md)
+ - [HTTP client](httpclient.md)
+ - [HTTP server](httpserver.md)
 
 ## Concurrency
 
-[core.async](coreasync.md)
+ - [core.async](coreasync.md)
 
 ## Data structures
 
-[Priority map](prioritymap.md)
+ - [Priority map](prioritymap.md)
 ...
 
 ## Testing
 
-[TestCheck](testcheck.md)
-[Generative](testgenerative.md)
+ - [TestCheck](testcheck.md)
+ - [Generative](testgenerative.md)
 
 ## Caching
 
-[core.cache](corecache.md)
-[core.memoize](corememoize.md)
+ - [core.cache](corecache.md)
+ - [core.memoize](corememoize.md)
 
 ## Image formats
 
-[PNG](pngcs.md)
+ - [PNG](pngcs.md)
