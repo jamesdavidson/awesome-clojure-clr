@@ -4,9 +4,9 @@ GitHub: [clojure/clr.core.async](https://github.com/clojure/clr.core.async)
 
 NuGet: https://www.nuget.org/packages/clojure.core.async
 
-Csproj: `<PackageReference Include="clojure.core.async" Version="1.7.701" />`
+Csproj: `<PackageReference Include="clojure.core.async" Version="1.9.865" />`
 
-deps: `io.github.clojure/clr.core.async {:git/tag "v1.7.701" :git/sha "07c6c8a"}`
+deps: `io.github.clojure/clr.core.async {:git/tag "v1.9.865" :git/sha "2dee16c"}`
 
 ## Example
 
