@@ -6,6 +6,6 @@ GitHub: [clojure/clr.test.check](https://github.com/clojure/clr.test.check)
 
 Nuget: https://www.nuget.org/packages/clojure.test.check
 
-Csproj: `<PackageReference Include="clojure.test.check" Version="1.1.2" />`
+Csproj: `<PackageReference Include="clojure.test.check" Version="1.1.4" />`
 
-deps: `io.github.clojure/clr.test.check {:git/tag "v1.1.2" :git/sha "26f34e6"}`
+deps: `io.github.clojure/clr.test.check {:git/tag "v1.1.4"  :git/sha "d21dfc3"}`
